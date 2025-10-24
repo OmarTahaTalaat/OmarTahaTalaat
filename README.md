@@ -11,7 +11,7 @@
 ---
 
 ## 👋 Hi — I'm **Omar Taha Talaat**
-```yaml
+
 role: Cybersecurity Engineer | Threat Intelligence Analyst | Penetration Tester
 focus: Web Pentesting, Threat Intelligence, Source Code Review, Security Reports
 education: B.Sc. Computers & AI, Helwan University (Honors)
