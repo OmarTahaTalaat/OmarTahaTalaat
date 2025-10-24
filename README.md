@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img alt="capsule" src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20I'm%20Omar%20Taha%20🕵️‍♂️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img alt="capsule" src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕵️‍♂️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h1 align="center">Hi, I’m Omar Taha 👋</h1>
@@ -14,9 +14,7 @@
   <a href="https://github.com/OmarTahaTalaat">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarTahaTalaat?label=Follow&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/OmarTahaTalaat?tab=repositories">
-    <img alt="Top languages" src="https://img.shields.io/github/languages/top/OmarTahaTalaat?style=for-the-badge"/>
-  </a>
+
   <a href="https://github.com/OmarTahaTalaat">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=OmarTahaTalaat&style=flat-square"/>
   </a>
