@@ -1,18 +1,46 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Omar%20Taha%20Talaat%20%E2%9A%A1%20Cybersecurity%20Engineer&animation=fadeIn&type=waving&color=gradient&height=110"/>
-</p>
+<!--
+  GitHub Profile README
+  - Repo name must equal your GitHub username for it to appear on your profile.
+  - Replace placeholders (YOUR_USERNAME, EMAIL, PORTFOLIO_URL, MEDIUM_URL, LINKEDIN_URL).
+-->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-taha-talaat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://medium.com/@omar-taha"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium"/></a>
-  <a href="mailto:omar.taha@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-omar.taha%40example.com-lightgrey?style=for-the-badge&logo=gmail"/></a>
+  <img alt="capsule" src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20I'm%20Omar%20Taha%20🕵️‍♂️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<h1 align="center">Hi, I’m Omar Taha 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img alt="Top languages" src="https://img.shields.io/github/languages/top/YOUR_USERNAME?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
+  </a>
 </p>
 
 ---
 
-## 👋 Hi — I'm **Omar Taha Talaat**
+## 👨‍💻 About / Bio (yaml-style)
 ```yaml
-role: Cybersecurity Engineer | Threat Intelligence Analyst | Penetration Tester
-focus: Web Pentesting, Threat Intelligence, Source Code Review, Security Reports
-education: B.Sc. Computers & AI, Helwan University (Honors)
+name: Omar Taha
+role: Cybersecurity Engineer | Threat Intelligence Analyst
 location: Cairo, Egypt
+focus:
+  - Web Application Security
+  - Threat Intelligence & OSINT
+  - Bug Hunting & Source Code Review
+skills:
+  - pentesting: Burp Suite, WPScan, Metasploit
+  - infra: Linux, firewalls, Cloudflare
+  - dev: Python, Bash, Node.js
+  - data: MongoDB, basic ML for analytics
+certifications:
+  - EC-Council CTIA (Threat Intelligence Analyst) (100%)
+  - OWASP Top 10 (Web) 2021
+  - Red Hat System Administration - I
+contributions:
+  - teaching, CTFs, open-source security tooling
